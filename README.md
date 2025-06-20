@@ -1,16 +1,49 @@
-## Hi there 👋
+# Introduction
 
-<!--
-**uniondeliver/uniondeliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a self-taught programmer with experience in **Lua**, **Luau**, **C++**, and a bit of **reverse engineering**. I'm passionate about scripting, automation, and understanding how things work under the surface.
 
-Here are some ideas to get you started:
+I spend most of my time experimenting with client-side scripts, bypass techniques, and building tools related to anti-cheat systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# Programming Experience
+
+### Lua / Luau  
+I’ve been scripting in Lua/Luau since early 2024, mostly focused on Roblox and FiveM. I’ve worked on scripts for games like **Blox Fruits**, **Phantom Forces**, and **Jailbreak**, and developed tools ranging from basic auto farms to thread-based detection bypasses. Luau quickly became my favorite scripting language due to its flexibility and game-focused environment.
+
+### C++  
+I started learning C++ to explore lower-level cheat logic and bypass techniques. I’ve worked on basic DLL injectors, memory operations, and spoofing tools. While I'm still progressing, C++ gives me the performance and control I need for more advanced experiments.
+
+### Python  
+I use Python for quick automation, data collection, and tools like checkers, log readers, and file editors. It's fast to write and very useful for scripting support tools around my Lua/C++ projects.
+
+### JavaScript / Node.js  
+Occasionally used for utility projects like process/thread watchers or small frontends. I’ve also tested using Node.js for scripting panels and small bots.
+
+### Batch / PowerShell  
+Used mainly for automating setup, file generation, and Git-related workflows in personal environments.
+
+---
+
+# Hobbies and Interests
+
+In addition to scripting, I have a strong interest in **reverse engineering**, particularly in how anti-cheat systems operate and detect behavior. I enjoy testing detection boundaries, spoofing system variables, and learning how common protections work.
+
+I'm always experimenting with concepts like:
+- Process/thread watching
+- Mutex spoofing
+- Environment variable tampering
+- Timing analysis
+- Game-specific protections
+
+---
+
+# GitHub Projects
+
+From Lua/Roblox scripts to small bypass utilities and FiveM experiments, I like building practical tools and testing ideas related to game scripting.
+
+My work is mostly solo, but I’m always open to discussing ideas or sharing knowledge.
+
+---
+
+**Feel free to reach out via Discord if you’re interested in scripting, bypass research, or just chatting dev stuff.**
