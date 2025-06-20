@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to my GitHub profile! I'm a self-taught programmer with experience in **Lua**, **Luau**, **C++**, and a bit of **reverse engineering**. I'm passionate about scripting, automation, and understanding how things work under the surface.
+Welcome to my GitHub profile! I'm a self-taught french programmer with experience in **Lua**, **Luau**, **C++**, and a bit of **reverse engineering**. I'm passionate about scripting, automation, and understanding how things work under the surface.
 
 I spend most of my time experimenting with client-side scripts, bypass techniques, and building tools related to anti-cheat systems.
 
