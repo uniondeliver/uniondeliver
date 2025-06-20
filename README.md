@@ -27,17 +27,16 @@ Used mainly for automating setup, file generation, and Git-related workflows in 
 
 # Hobbies and Interests
 
-In addition to scripting, I have a strong interest in **reverse engineering**, particularly in how anti-cheat systems operate and detect behavior. I enjoy testing detection boundaries, spoofing system variables, and learning how common protections work.
+In addition to programming, I love to indulge in the world of reverse engineering as a hobby. I like to inspect how progams work, while also document their behavior.
 
-I mostly work with Luau/Lua scripting — messing with hooks, detours, remote spoofing, and ways to stay under the radar while testing scripts in live games.
-
+I'm constantly seeking new challenges and opportunities to improve my skills - and/or gain knowledge. Feel free to contact me about programming, reverse-engineering, or other things. It'd be nice to see issues and pull-requests made on my projects.
 ---
 
 # GitHub Projects
 
-From Lua/Roblox scripts to small bypass utilities and FiveM experiments, I like building practical tools and testing ideas related to game scripting.
+From cheating software, reverse engineering experiments, to web development, I enjoy exploring many topics.
 
-My work is mostly solo, but I’m always open to discussing ideas or sharing knowledge.
+I'm always free to collaborate, learn, and share knowledge with fellow developers. If you're interested in creating projects, or connecting professionally, feel free to contact me through Discord!
 
 ---
 
