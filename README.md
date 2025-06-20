@@ -29,12 +29,7 @@ Used mainly for automating setup, file generation, and Git-related workflows in 
 
 In addition to scripting, I have a strong interest in **reverse engineering**, particularly in how anti-cheat systems operate and detect behavior. I enjoy testing detection boundaries, spoofing system variables, and learning how common protections work.
 
-I'm always experimenting with concepts like:
-- Process/thread watching
-- Mutex spoofing
-- Environment variable tampering
-- Timing analysis
-- Game-specific protections
+I mostly work with Luau/Lua scripting — messing with hooks, detours, remote spoofing, and ways to stay under the radar while testing scripts in live games.
 
 ---
 
