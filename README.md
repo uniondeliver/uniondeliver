@@ -9,7 +9,7 @@ I spend most of my time experimenting with client-side scripts, bypass technique
 # Programming Experience
 
 ### Lua / Luau  
-I’ve been scripting in Lua/Luau since early 2024, mostly focused on Roblox and FiveM. I’ve worked on scripts for games like **Blox Fruits**, **Phantom Forces**, and **Jailbreak**, and developed tools ranging from basic auto farms to thread-based detection bypasses. Luau quickly became my favorite scripting language due to its flexibility and game-focused environment.
+I’ve been scripting in Lua/Luau since early 2024, mostly focused on Roblox and FiveM. I’ve worked on scripts for games like **RS Tennis**, **Volleyball Legends**, and **Bizarre Lineage**, and developed tools ranging from basic auto farms to thread-based detection bypasses. Luau quickly became my favorite scripting language due to its flexibility and game-focused environment.
 
 ### C++  
 I started learning C++ to explore lower-level cheat logic and bypass techniques. I’ve worked on basic DLL injectors, memory operations, and spoofing tools. While I'm still progressing, C++ gives me the performance and control I need for more advanced experiments.
