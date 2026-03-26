@@ -1,6 +1,6 @@
 <div align="center">
  
-# Hey, I'm Zackaria.
+# Hey, zack here.
  
 **Roblox/Luau developer · Security researcher · Game developer**
  
