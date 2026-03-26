@@ -1,43 +1,75 @@
-# Introduction
-
-Welcome to my GitHub profile! I'm a self-taught french programmer with experience in **Lua**, **Luau**, **C++**, and a bit of **reverse engineering**. I'm passionate about scripting, automation, and understanding how things work under the surface.
-
-I spend most of my time experimenting with client-side scripts, bypass techniques, and building tools related to anti-cheat systems.
-
+<div align="center">
+ 
+# Hey, I'm Zackaria.
+ 
+**Roblox/Luau developer · Security researcher · Game developer**
+ 
+<a href="https://github.com/Zackaria">
+  <img src="https://img.shields.io/github/followers/Zackaria?label=Follow&style=social" alt="GitHub Followers" />
+</a>
+ 
+<br />
+ 
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+ 
+</div>
+ 
+<br />
+ 
+### About Me
+ 
+I'm an 18-year-old developer deeply embedded in the Roblox/Luau ecosystem — with a strong focus on **game security, anti-cheat architecture, and obfuscation research.**
+ 
+- **Specialized in the Roblox/Luau ecosystem** — anti-cheat systems, exploit analysis, and game security.
+- **Currently researching Lua obfuscation** — building a generic analyzer to parse, optimize, and devirtualize obfuscated Lua ASTs back to clean Lua 5.1 output.
+- **A lot of my work is private.** If you see experience here without a linked project, that's why.
+ 
 ---
-
-# Programming Experience
-
-### Lua / Luau  
-I’ve been scripting in Lua/Luau since early 2024, mostly focused on Roblox and FiveM. I’ve worked on scripts for games like **RS Tennis**, **Volleyball Legends**, and **Bizarre Lineage**, and developed tools ranging from basic auto farms to thread-based detection bypasses. Luau quickly became my favorite scripting language due to its flexibility and game-focused environment.
-
-### C++  
-I started learning C++ to explore lower-level cheat logic and bypass techniques. I’ve worked on basic DLL injectors, memory operations, and spoofing tools. While I'm still progressing, C++ gives me the performance and control I need for more advanced experiments.
-
-### Python  
-I use Python for quick automation, data collection, and tools like checkers, log readers, and file editors. It's fast to write and very useful for scripting support tools around my Lua/C++ projects.
-
-### JavaScript / Node.js  
-Occasionally used for utility projects like process/thread watchers or small frontends. I’ve also tested using Node.js for scripting panels and small bots.
-
-### Batch / PowerShell  
-Used mainly for automating setup, file generation, and Git-related workflows in personal environments.
-
+ 
+### What Am I Working On?
+ 
+Currently building **Obelisk Analyzer** — a generic Lua obfuscation analyzer written in **C# using Loretta.**
+ 
+It aims to parse and optimize Lua ASTs, expose a clean and extensible **IR (Intermediate Representation)** to devirtualize various instruction sets, and reconstruct readable **Lua 5.1-compatible output.** Currently supports **IB2 Lua obfuscation** (experimental, WIP) by reversing its custom VM via XOR/LZW reconstruction and bytecode decoding.
+ 
 ---
-
-# Hobbies and Interests
-
-In addition to programming, I love to indulge in the world of reverse engineering as a hobby. I like to inspect how progams work, while also document their behavior.
-
-I'm constantly seeking new challenges and opportunities to improve my skills - and/or gain knowledge. Feel free to contact me about programming, reverse-engineering, or other things. It'd be nice to see issues and pull-requests made on my projects.
+ 
+### Tech Stack
+ 
+#### **Roblox / Scripting**
+![Lua](https://img.shields.io/badge/Lua-0047B3?style=for-the-badge&logo=lua&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-EC4A3F?style=for-the-badge&logo=roblox&logoColor=white)
+![Rojo](https://img.shields.io/badge/Rojo-E4162B?style=for-the-badge&logo=roblox&logoColor=white)
+ 
+#### **Software Analysis & Tooling**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ 
+#### **Scripting & Automation**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ 
+#### **Version Control**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ 
 ---
-
-# GitHub Projects
-
-From cheating software, reverse engineering experiments, to web development, I enjoy exploring many topics.
-
-I'm always free to collaborate, learn, and share knowledge with fellow developers. If you're interested in creating projects, or connecting professionally, feel free to contact me through Discord!
-
+ 
+### Project Highlights
+ 
+| AGC — Anti-Cheat System | Obelisk Analyzer |
+| :---: | :---: |
+| *RC4-encrypted challenge-response, metamethod hooking, GC monitoring. Deployed in live Roblox games.* | *Generic Lua obfuscation analyzer. Parses ASTs via Loretta, exposes a devirtualization IR, outputs clean Lua 5.1.* |
+ 
+| AKUTA: JINKI'S RESONANCE | Loup-Garou (Werewolf) |
+| :---: | :---: |
+| *Hardcore action-RPG on Roblox, inspired by Deepwoken. Full combat systems, custom UI, and game architecture.* | *Social deduction game with full lobby system, balance engine, and phase management.* |
+ 
+> Most of my work is private or NDA-adjacent. The above is a non-exhaustive list.
+ 
 ---
-
-**Feel free to reach out via Discord if you’re interested in scripting, bypass research, or just chatting dev stuff.**
+ 
+<div align="center">
+  <p>For serious inquiries or collaboration, feel free to reach out on <b>Discord.</b></p>
+</div>
